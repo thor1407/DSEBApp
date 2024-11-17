@@ -1,0 +1,28 @@
+<Tab>:
+    orientation: "vertical"
+    MDBoxLayout:
+        orientation: "vertical"
+        adaptive_height: True
+
+MDScreen:
+    MDTabs:
+        id: tabs
+        on_tab_switch: app.on_tab_switch(*args)
+
+        Tab:
+            title: "Class Members"
+            icon: "account-group"
+            MDScrollView:
+                MDList:
+                    id: member_list
+                    padding: dp(10)
+                    spacing: dp(10)
+
+        Tab:
+            title: "Teachers"
+            icon: "school"
+            MDScrollView:
+                MDList:
+                    id: teacher_list
+                    padding: dp(10)
+                    spacing: dp(10)
