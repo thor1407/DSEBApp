@@ -1,2 +1,2 @@
 # DSEBApp
-An app that helps users efficiently manage their personal schedules. It allows tracking of important events and tasks while offering smart reminders, priority organization, and customizable scheduling options. With an intuitive and user-friendly interface, it ensures users can quickly grasp their daily plans and stay on top of important tasks.
+An app specifically designed for DSEB students to efficiently manage their personal schedules. It helps users keep track of important events and assignments, offers smart reminders, priority-based task organization, and customizable scheduling features. With an intuitive, student-friendly interface, the app ensures DSEB students can easily stay on top of their daily plans, academic deadlines, and personal goals.
